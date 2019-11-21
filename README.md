@@ -1,2 +1,1 @@
-# ImageRecognition
-Simple image recognition using Tensorflow, Keras and Python (duh)
+<h1>ImageRecognition</h1>
